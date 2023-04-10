@@ -1,7 +1,8 @@
 
-hola mundo
+#Hola mundo
 
-[Python] (./Hola_python.py)
- 
-[C] (.holamundo.c)
+Los siguientes  archivos son ejemplos de hola mundo en distintos lenguages de programacion:
+
+-[Python] (./Hola_python.py)
+ -[C] (./holamundo.c)
 
